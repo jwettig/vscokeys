@@ -1,0 +1,55 @@
+{
+    "name": "Jennifers Layout",
+    "description": "inspired by vsco simple layout",
+    "author": "Jennifer Wettig",
+    "uuid": "jw-layout",
+    "lrVersion": "4",
+    "modeKey": "53",
+    "keys":
+    [
+        { "mod":"0", "key":"18", "adj" : {"_SetPreset":"VSCO Keys/Preset 01"} },
+		{ "mod":"0", "key":"19", "adj" : {"_SetPreset":"VSCO Keys/Preset 02"} },
+		{ "mod":"0", "key":"20", "adj" : {"_SetPreset":"VSCO Keys/Preset 03"} },
+		{ "mod":"0", "key":"21", "adj" : {"_SetPreset":"VSCO Keys/Preset 04"} },
+		{ "mod":"0", "key":"23", "adj" : {"_SetPreset":"VSCO Keys/Preset 05"} },
+		{ "mod":"0", "key":"22", "adj" : {"_SetPreset":"VSCO Keys/Preset 06"} },
+		{ "mod":"0", "key":"26", "adj" : {"_SetPreset":"VSCO Keys/Preset 07"} },
+		{ "mod":"0", "key":"28", "adj" : {"_SetPreset":"VSCO Keys/Preset 08"} },
+		{ "mod":"0", "key":"25", "adj" : {"_SetPreset":"VSCO Keys/Preset 09"} },
+		{ "mod":"0", "key":"29", "adj" : {"_SetPreset":"VSCO Keys/Preset 10"} },
+		
+        { "mod":"2", "key":"123", "adj" : {"Contrast2012":"-10"} },
+        { "mod":"2", "key":"124", "adj" : {"Contrast2012":"10"} },
+		{ "mod":"2", "key":"125", "adj" : {"Exposure2012":"-.3"} },
+        { "mod":"2", "key":"126", "adj" : {"Exposure2012":".3"} },
+		
+		{ "mod":"0", "key":"45", "adj" : {"Highlights2012":"-10"} },
+        { "mod":"0", "key":"46", "adj" : {"Highlights2012":"10"} },
+		{ "mod":"2", "key":"45", "adj" : {"Whites2012":"-10"} },
+        { "mod":"2", "key":"46", "adj" : {"Whites2012":"10"} },
+		
+		{ "mod":"0", "key":"9", "adj" : {"Shadows2012":"-10"} },
+        { "mod":"0", "key":"11", "adj" : {"Shadows2012":"10"} },
+		{ "mod":"2", "key":"9", "adj" : {"Blacks2012":"-10"} },
+        { "mod":"2", "key":"11", "adj" : {"Blacks2012":"10"} },
+		
+        { "mod":"4", "key":"123", "adj" : {"Temperature":"-200"} },
+        { "mod":"4", "key":"124", "adj" : {"Temperature":"200"} },
+		{ "mod":"4", "key":"125", "adj" : {"Tint":"-5"} },
+        { "mod":"4", "key":"126", "adj" : {"Tint":"5"} },
+		
+        { "mod":"1", "key":"123", "adj" : {"Vibrance":"-10"} },
+        { "mod":"1", "key":"124", "adj" : {"Vibrance":"10"} },
+		{ "mod":"1", "key":"125", "adj" : {"Saturation":"-10"} },
+        { "mod":"1", "key":"126", "adj" : {"Saturation":"10"} },
+		
+		{ "mod":"0", "key":"40", "adj" : {"LuminanceSmoothing":"-10"} },
+        { "mod":"0", "key":"37", "adj" : {"LuminanceSmoothing":"10"} },
+		
+		{ "mod":"2", "key":"43", "adj" : {"Clarity2012":"-5"} },
+        { "mod":"2", "key":"47", "adj" : {"Clarity2012":"5"} },	
+		{ "mod":"0", "key":"43", "adj" : {"PostCropVignetteAmount":"-10"} },
+        { "mod":"0", "key":"47", "adj" : {"PostCropVignetteAmount":"10"} }
+		
+    ]
+}
